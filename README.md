@@ -9,3 +9,8 @@ This project is still in the early stages of development
 
 # How to use
 Check out the project into your favourite IDE, open 'colorizer_tester.py' and change the 'dir_path' variable to a test image oath of your choice, and train it, once its trained model files will be created in Images/Model folder, while testing just comment the train part of the code and run it again
+
+# I strongly acknowledge the below resources that lead to the development of the project
+1. https://arxiv.org/abs/1803.05400
+2. https://github.com/ImagingLab/Colorizing-with-GANs
+3. http://bamos.github.io/2016/08/09/deep-completion/
