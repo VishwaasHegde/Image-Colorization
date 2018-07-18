@@ -12,5 +12,7 @@ Check out the project into your favourite IDE, open 'colorizer_tester.py' and ch
 
 <h3> I strongly acknowledge the below resources that lead to the development of the project </h3>
 1. https://arxiv.org/abs/1803.05400
+
 2. https://github.com/ImagingLab/Colorizing-with-GANs
+
 3. http://bamos.github.io/2016/08/09/deep-completion/
