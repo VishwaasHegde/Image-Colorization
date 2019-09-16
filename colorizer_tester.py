@@ -2,7 +2,6 @@
 """
 Created on Tue Jul 17 10:01:55 2018
 
-@author: VHG6KOR
 """
 
 from image_colorizer import image_colorizer
